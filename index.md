@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+# Upcoming Schedule
+
+- 9/1  Plus One Trio ft. <font color=#003377>**葉政廷**</font>  @ BluenoteTaipei
+- 9/8  Plus One Trio ft.**李世鈞**  @ BluenoteTaipei
+- 9/12 **葉政廷Trio** @ Jazz Spot Swing
+- 9/15 Plus One Trio ft.**Michael Wang**  @ BluenoteTaipei
+- 9/22 Plus One Trio ft.**李芳旭**  @ BluenoteTaipei
+- 9/26 **333 Project** @ Jazz Spot Swing 
+
+
+## Plus One Trio
+
+Plus one trio 是於2019年開始的實驗性project，在鼓、貝斯為主之固定編制外與其他樂器搭配，嘗試各種三重奏的可能性。
 
 You can use the [editor on GitHub](https://github.com/physicsdog0505/hhsu-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
