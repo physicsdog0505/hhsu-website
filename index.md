@@ -27,7 +27,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 極具流暢且故事性的旋律線條，搭配上強烈的節奏律動，組合出令人驚豔的聲響。 
 
 <a href="https://www.youtube.com/watch?v=DDYJr74P1RQ&feature=youtu.be&fbclid=IwAR26gIxkXTylv_TO2NEdal1lDl0ur7DBMv8CUbmw1Eu6UmKkkRsoZ-todl0
-" target="_blank"><img src="https://imgur.com/5QsSK3T" 
+" target="_blank"><img src="https://imgur.com/5QsSK3T.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
 ### Markdown
