@@ -2,7 +2,7 @@
 
 - 9/1  Plus One Trio ft.__葉政廷__ @ BluenoteTaipei
 - 9/8  Plus One Trio ft.**李世鈞**  @ BluenoteTaipei
-- 9/12 **葉政廷Trio** @ Jazz Spot Swing
+- 9/12 **YEH CHENG TING PIANO TRIO** @ Jazz Spot Swing
 - 9/15 Plus One Trio ft.**Michael Wang**  @ BluenoteTaipei
 - 9/22 Plus One Trio ft.**李芳旭**  @ BluenoteTaipei
 - 9/26 **333 Project** @ Jazz Spot Swing 
@@ -20,6 +20,15 @@ alt="點我另開視窗撥放" width="400"/></a>
 You can use the [editor on GitHub](https://github.com/physicsdog0505/hhsu-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## YEH CHENG TING PIANO TRIO
+
+由台灣新生代鋼琴手葉政廷率領，2020年中開始每月固定於Jazz Spot Swing演出。
+極具流暢且故事性的旋律線條，搭配上強烈的節奏律動，組合出令人驚豔的聲響。 
+
+<a href="https://www.youtube.com/watch?v=DDYJr74P1RQ&feature=youtu.be&fbclid=IwAR26gIxkXTylv_TO2NEdal1lDl0ur7DBMv8CUbmw1Eu6UmKkkRsoZ-todl0
+" target="_blank"><img src="https://imgur.com/5QsSK3T" 
+alt="點我另開視窗撥放" width="400"/></a>
 
 ### Markdown
 
