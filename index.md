@@ -12,6 +12,11 @@
 
 Plus one trio 是於2019年開始的實驗性project，在鼓、貝斯為主之固定編制外與其他樂器搭配，嘗試各種三重奏的可能性。
 
+
+<a href="https://www.youtube.com/watch?v=DDYJr74P1RQ&feature=youtu.be&fbclid=IwAR26gIxkXTylv_TO2NEdal1lDl0ur7DBMv8CUbmw1Eu6UmKkkRsoZ-todl0
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 You can use the [editor on GitHub](https://github.com/physicsdog0505/hhsu-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
