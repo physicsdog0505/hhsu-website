@@ -21,7 +21,7 @@ alt="點我另開視窗撥放" width="400"/></a>
 <a href="https://www.bluenotetaipei.com/events/tai-bei-lan-diao-zhou-er-jue-shi-xian-chang-0901-plus-one-trio-tue" target="_blank">[Booking Online !]</a>
 
  * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
- * Bass:許巽舜
+ * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
  * +1 speacial guest
 
 You can use the [editor on GitHub](https://github.com/physicsdog0505/hhsu-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -38,9 +38,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 " target="_blank"><img src="https://imgur.com/5QsSK3T.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
- * Piano:葉政廷
- * Drums:林俊宏
- * Bass:許巽舜
+ * Piano:<a href="https://www.facebook.com/ye.z.ting.1/" target="_blank">葉政廷</a>
+ * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
+ * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
 
 ---
 ## 333 Project
@@ -51,9 +51,9 @@ alt="點我另開視窗撥放" width="400"/></a>
 " target="_blank"><img src="https://i.imgur.com/28eFoEi.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
- * Piano:唐寧
- * Drums:林俊宏
- * Bass:許巽舜
+ * Piano:<a href="https://www.facebook.com/ning.tang.522/" target="_blank">唐寧</a>
+ * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
+ * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
 
 ### Markdown
 
