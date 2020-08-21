@@ -2,6 +2,3 @@ theme: jekyll-theme-minimal
 title: 物理狗的網站
 description: Upcoming Schedule
 #logo: [Location of the logo]
-plugins: [jekyll-paginate]
-paginate: 20 # 每頁文章數
-paginate_path: "essay/page:num" # 可選，分頁鏈接
