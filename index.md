@@ -20,7 +20,7 @@ alt="點我另開視窗撥放" width="400"/></a>
 
 <a href="https://www.bluenotetaipei.com/events/tai-bei-lan-diao-zhou-er-jue-shi-xian-chang-0901-plus-one-trio-tue" target="_blank">[Booking Online !]</a>
 
- * Drums:林俊宏
+ * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
  * Bass:許巽舜
  * +1 speacial guest
 
