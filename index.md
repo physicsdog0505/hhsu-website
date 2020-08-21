@@ -18,7 +18,7 @@ Plus one trio 是於2019年開始的實驗性project，在鼓、貝斯為主之�
 " target="_blank"><img src="https://i.imgur.com/pb5dnlm.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
-[Booking Online !](https://www.bluenotetaipei.com/events/tai-bei-lan-diao-zhou-er-jue-shi-xian-chang-0901-plus-one-trio-tue)
+[Booking Online !]<a href="https://www.bluenotetaipei.com/events/tai-bei-lan-diao-zhou-er-jue-shi-xian-chang-0901-plus-one-trio-tue" target="_blank">
 
  * Drums:林俊宏
  * Bass:許巽舜
