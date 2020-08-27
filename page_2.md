@@ -1,5 +1,5 @@
 # Upcoming Schedule
-[點這裡可連到第2頁喔](index.md)
+[點這裡可回首頁喔](index.md)
 - 9/1  Plus One Trio ft.__葉政廷__ @ BluenoteTaipei
 - 9/8  Plus One Trio ft.**李世鈞**  @ BluenoteTaipei
 - 9/12 **YEH CHENG TING PIANO TRIO** @ Jazz Spot Swing
