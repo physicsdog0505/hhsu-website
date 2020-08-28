@@ -24,14 +24,14 @@ alt="點我另開視窗撥放" width="400"/></a>
  * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
  * +1 speacial guest
 
-已下資訊來源為<a href="https://www.bluenotetaipei.com/events/tai-bei-lan-diao-zhou-er-jue-shi-xian-chang-0901-plus-one-trio-tue" target="_blank">[臺北藍調官網]</a>
+*資訊來源*<a href="https://www.bluenotetaipei.com/events/tai-bei-lan-diao-zhou-er-jue-shi-xian-chang-0901-plus-one-trio-tue" target="_blank">[臺北藍調官網]</a>
 
-###Time & Location
+### Time & Location
 2020.09.01 / 09.08 / 09.15 / 09.22 Tue 週二 下午9:00 – 下午11:00
 
 Blue Note Taipei 台北藍調, 10647台湾台北市大安區羅斯福路三段171號4F
 
-About The Event
+### About The Event
 
 
 [<a href="https://www.facebook.com/ye.z.ting.1/" target="_blank">葉政廷 ZeTing Ye</a>| Piano 09.01 ] [ <a href="https://www.facebook.com/shihchun.lee.1" target="_blank">李世均 Shin Chun Lee </a>| Guitar  09.08 ]
