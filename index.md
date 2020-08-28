@@ -25,8 +25,8 @@ alt="點我另開視窗撥放" width="400"/></a>
  
 speacial guest
 
-* 9/1 <a href="https://www.facebook.com/ye.z.ting.1/" target="_blank">葉政廷 ZeTing Ye </a> Piano 
-* 9/8 <a href="https://www.facebook.com/shihchun.lee.1" target="_blank">李世均 Shin Chun Lee </a> Guitar 
+* 9/1  <a href="https://www.facebook.com/ye.z.ting.1/" target="_blank">葉政廷 ZeTing Ye </a> Piano 
+* 9/8  <a href="https://www.facebook.com/shihchun.lee.1" target="_blank">李世均 Shin Chun Lee </a> Guitar 
 * 9/15<a href="https://www.facebook.com/ning.tang.522/" target="_blank">唐寧 Tang Ning </a> Piano  <a href="https://www.facebook.com/boneofthewang" target="_blank">王于維 Michael Wang </a> Trombone
 * 9/22<a href="https://www.facebook.com/fangshu.li" target="_blank">李芳旭 Fang-Shu Li </a> Guitar 
 
