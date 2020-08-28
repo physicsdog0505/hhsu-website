@@ -37,7 +37,7 @@ Blue Note Taipei 台北藍調, 10647台灣台北市大安區羅斯福路三段17
 
 NT$400 入場費含一份選定飲料 精選紅白葡萄酒單支開瓶 可抵兩位入場費
 
-###### 資訊來源<a href="https://www.bluenotetaipei.com/events/tai-bei-lan-diao-zhou-er-jue-shi-xian-chang-0901-plus-one-trio-tue" target="_blank">[臺北藍調官網]</a>
+###### 資訊來源<a href="https://www.bluenotetaipei.com/">[臺北藍調官網]</a>
 ---
 ## YEH CHENG TING PIANO TRIO
 
