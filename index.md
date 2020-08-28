@@ -43,7 +43,7 @@ NT$400 入場費含一份選定飲料 精選紅白葡萄酒單支開瓶 可抵�
 
 Live Music Charge w/1 selected drink. / Live Music Charge for 2 people cover one bottle wine.
 
-######## *資訊來源*<a href="https://www.bluenotetaipei.com/events/tai-bei-lan-diao-zhou-er-jue-shi-xian-chang-0901-plus-one-trio-tue" target="_blank">[*臺北藍調官網*]</a>
+##### *資訊來源*<a href="https://www.bluenotetaipei.com/events/tai-bei-lan-diao-zhou-er-jue-shi-xian-chang-0901-plus-one-trio-tue" target="_blank">[*臺北藍調官網*]</a>
 ---
 ## YEH CHENG TING PIANO TRIO
 
