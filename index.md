@@ -32,16 +32,10 @@ speacial guest
 
 
 
-### Time & Location
-2020.09.01 / 09.08 / 09.15 / 09.22 Tue 週二 下午9:00 – 下午11:00
-
+###  Location
 Blue Note Taipei 台北藍調, 10647台灣台北市大安區羅斯福路三段171號4F
 
-Featuring Hsu Hsun Shun on bass and Jeffrey Lin on drums,they’ll keep inviting varying musicians to play mellow jazz finetones.
-
 NT$400 入場費含一份選定飲料 精選紅白葡萄酒單支開瓶 可抵兩位入場費
-
-Live Music Charge w/1 selected drink. / Live Music Charge for 2 people cover one bottle wine.
 
 ###### 資訊來源<a href="https://www.bluenotetaipei.com/events/tai-bei-lan-diao-zhou-er-jue-shi-xian-chang-0901-plus-one-trio-tue" target="_blank">[臺北藍調官網]</a>
 ---
