@@ -61,6 +61,7 @@ alt="點我另開視窗撥放" width="400"/></a>
 " target="_blank"><img src="https://imgur.com/MhqT5gK.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
+ * Trombone: <a href="https://www.facebook.com/boneofthewang" target="_blank">王于維 Michael Wang </a> 
  * Piano:<a href="https://www.facebook.com/ning.tang.522/" target="_blank">唐寧</a>
  * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
  * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
