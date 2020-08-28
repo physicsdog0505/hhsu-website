@@ -22,7 +22,7 @@ alt="點我另開視窗撥放" width="400"/></a>
 
  * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
  * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
- * +1 speacial guest
+speacial guest
 * [ <a href="https://www.facebook.com/ye.z.ting.1/" target="_blank">葉政廷 ZeTing Ye </a>| Piano 09.01 ] 
 * [ <a href="https://www.facebook.com/shihchun.lee.1" target="_blank">李世均 Shin Chun Lee </a>| Guitar  09.08 ]
 * [ <a href="https://www.facebook.com/ning.tang.522/" target="_blank">唐寧 Tang Ning </a>| Piano 09.15 ] 
