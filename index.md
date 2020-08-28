@@ -35,7 +35,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 極具流暢且故事性的旋律線條，搭配上強烈的節奏律動，組合出令人驚豔的聲響。 
 
 <a href="https://www.youtube.com/watch?v=DDYJr74P1RQ&feature=youtu.be&fbclid=IwAR26gIxkXTylv_TO2NEdal1lDl0ur7DBMv8CUbmw1Eu6UmKkkRsoZ-todl0
-" target="_blank"><img src="https://imgur.com/5QsSK3T.jpg" 
+" target="_blank"><img src="https://i.imgur.com/J8DCvAH.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
  * Piano:<a href="https://www.facebook.com/ye.z.ting.1/" target="_blank">葉政廷</a>
@@ -48,7 +48,7 @@ alt="點我另開視窗撥放" width="400"/></a>
 3個30好幾的樂手組了個鋼琴3重奏，練團3個月發現開的都是跟3拍有關的歌曲，促成了這次的333 project
 
 <a href="https://www.youtube.com/watch?v=JWzd4j8RZKI&feature=youtu.be&fbclid=IwAR3-YPr1iQ1kr-m5E1zxYK04qiFld4Rz2EoFEO3shDLWmnseSJefejcnsFA
-" target="_blank"><img src="https://i.imgur.com/28eFoEi.jpg" 
+" target="_blank"><img src="https://imgur.com/MhqT5gK.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
  * Piano:<a href="https://www.facebook.com/ning.tang.522/" target="_blank">唐寧</a>
