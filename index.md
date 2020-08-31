@@ -14,7 +14,7 @@ Plus one trio 是於2019年開始的實驗性project，在鼓、貝斯為主之�
 
 
 
-<a href="https://www.youtube.com/watch?v=DDYJr74P1RQ&feature=youtu.be&fbclid=IwAR26gIxkXTylv_TO2NEdal1lDl0ur7DBMv8CUbmw1Eu6UmKkkRsoZ-todl0
+<a href="https://www.facebook.com/events/759144631583521/?event_time_id=759144638250187
 " target="_blank"><img src="https://i.imgur.com/pb5dnlm.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
@@ -44,7 +44,7 @@ NT$400 入場費含一份選定飲料 精選紅白葡萄酒單支開瓶 可抵�
 由台灣新生代鋼琴手葉政廷率領，2020年中開始每月固定於Jazz Spot Swing演出。
 極具流暢且故事性的旋律線條，搭配上強烈的節奏律動，組合出令人驚豔的聲響。 
 
-<a href="https://www.youtube.com/watch?v=DDYJr74P1RQ&feature=youtu.be&fbclid=IwAR26gIxkXTylv_TO2NEdal1lDl0ur7DBMv8CUbmw1Eu6UmKkkRsoZ-todl0
+<a href="https://www.facebook.com/events/308217986901161/
 " target="_blank"><img src="https://i.imgur.com/J8DCvAH.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
@@ -57,7 +57,7 @@ alt="點我另開視窗撥放" width="400"/></a>
 
 3個30好幾的樂手組了個鋼琴3重奏，練團3個月發現開的都是跟3拍有關的歌曲，促成了這次的333 project
 
-<a href="https://www.youtube.com/watch?v=JWzd4j8RZKI&feature=youtu.be&fbclid=IwAR3-YPr1iQ1kr-m5E1zxYK04qiFld4Rz2EoFEO3shDLWmnseSJefejcnsFA
+<a href="https://www.facebook.com/events/741548696634868/
 " target="_blank"><img src="https://imgur.com/MhqT5gK.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
