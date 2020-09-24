@@ -77,3 +77,9 @@ alt="點我另開視窗撥放" width="400"/></a>
  * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
  * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
 
+###  Location
+Jazz Spot Swing 臺北市新生北路一段108號B1
+
+門票 NT$300 低消 NT$500 10%服務費
+
+###### 資訊來源<a href="https://www.facebook.com/JazzSwingSpot/">[Jazz Spot Swing官網]</a>
