@@ -1,7 +1,7 @@
 # Upcoming Schedule
 
 - 9/26 **333 Project** ft.**Michael Wang** @ Jazz Spot Swing 
-- 10/2 董舜文 @ 公館河岸留言
+- 10/2 **董舜文Quartet** @ 公館河岸留言
 - 10/6  Plus One Trio ft.__葉政廷__ @ BluenoteTaipei
 - 10/10 **YEH CHENG TING PIANO TRIO** @ Jazz Spot Swing
 - 10/13 Plus One Trio ft.**李芳旭**  @ BluenoteTaipei
