@@ -63,7 +63,7 @@ Jazz Spot Swing 臺北市新生北路一段108號B1
 
 ###### 資訊來源<a href="https://www.facebook.com/JazzSwingSpot/">[Jazz Spot Swing官網]</a>
 ---
----
+
 ## 333 Project
 
 3個30好幾的樂手組了個鋼琴3重奏，練團3個月發現開的都是跟3拍有關的歌曲，促成了這次的333 project
