@@ -1,14 +1,11 @@
 # Upcoming Schedule
 
-- 9/26 **333 Project** ft.**Michael Wang** @ Jazz Spot Swing 
-- 10/2 **董舜文Quartet** @ 公館河岸留言
-- 10/6  Plus One Trio ft.__葉政廷__ @ BluenoteTaipei
-- 10/10 **YEH CHENG TING PIANO TRIO** @ Jazz Spot Swing
-- 10/13 Plus One Trio ft.**李芳旭**  @ BluenoteTaipei
-- 10/18 **MICHAEL WANG QUARTET** @ BluenoteTaipei
-- 10/20 Plus One Trio ft.__蘇聖育__ 、**Michael Wang** @ BluenoteTaipei
-- 10/22 **YEH CHENG TING PIANO TRIO** @ Sappho Live Jazz
-- 10/23 **Jeffry Lin Quartet** @ 露西亞咖啡 Café Rossiya
+- 11/3  Plus One Trio ft.__Mark Kuo__ @ BluenoteTaipei
+- 11/5 **PLAY ONE TRIO** @ Sappho Live Jazz
+- 11/10 Plus One Trio ft.**莊智淵**  @ BluenoteTaipei
+- 11/14 **SOME OTHER QUARTET** @ Jazz Spot Swing
+- 11/17 Plus One Trio ft.__李芳旭__  @ BluenoteTaipei
+
 
 
 ***
@@ -22,16 +19,16 @@ Plus one trio 是於2019年開始的實驗性project，在鼓、貝斯為主之�
 " target="_blank"><img src="https://i.imgur.com/pb5dnlm.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
-<a href="https://www.bluenotetaipei.com/events/tai-bei-lan-diao-zhou-er-jue-shi-xian-chang-0901-plus-one-trio-tue" target="_blank">[Booking Online !]</a>
+<a href="https://www.bluenotetaipei.com/events/tai-bei-lan-diao-zhou-er-jue-shi-xian-chang-1103-plus-one-trio-tue" target="_blank">[Booking Online !]</a>
 
  * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
  * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
  
 speacial guest
 
-* 10/6  <a href="https://www.facebook.com/ye.z.ting.1/" target="_blank">葉政廷 ZeTing Ye </a> Piano 
-* 10/13 <a href="https://www.facebook.com/fangshu.li" target="_blank">李芳旭 Fang-Shu Li </a> Guitar  
-* 10/20 <a href="https://www.facebook.com/Sushenyu/" target="_blank">蘇聖育 Sam </a> Sax  <a href="https://www.facebook.com/boneofthewang" target="_blank">王于維 Michael Wang </a> Trombone
+* 11/3  <a href="https://www.facebook.com/mark.kuo.8/" target="_blank">Mark Kuo </a> Piano 
+* 11/10 <a href="https://www.facebook.com/ericchuangguitar" target="_blank">莊智淵 </a> Guitar  
+* 11/170 <a href="https://www.facebook.com/fangshu.li/" target="_blank">李芳旭 Fang-Shu Li </a> Guitar  
 
 
 
@@ -43,16 +40,17 @@ NT$400 入場費含一份選定飲料 精選紅白葡萄酒單支開瓶 可抵�
 
 ###### 資訊來源<a href="https://www.bluenotetaipei.com/">[臺北藍調官網]</a>
 ---
-## YEH CHENG TING PIANO TRIO
+## SOME OTHER QUARTET
 
-由台灣新生代鋼琴手葉政廷率領，2020年中開始每月固定於Jazz Spot Swing演出。
-極具流暢且故事性的旋律線條，搭配上強烈的節奏律動，組合出令人驚豔的聲響。 
+由台灣知名薩克斯風演奏家周泰明與鋼琴家Grace所組成之四重奏，帶來經典的爵士聲響。 
 
+<!--
 <a href="https://www.facebook.com/events/308217986901161/
 " target="_blank"><img src="https://i.imgur.com/J8DCvAH.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
-
- * Piano:<a href="https://www.facebook.com/ye.z.ting.1/" target="_blank">葉政廷</a>
+-->
+ * Saxphone:<a href="https://www.facebook.com/TimingChou/" target="_blank">周泰明</a>
+ * Piano:<a href="https://www.facebook.com/grace.weng.927/" target="_blank">Grace Weng</a>
  * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
  * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
 
@@ -63,6 +61,18 @@ Jazz Spot Swing 臺北市新生北路一段108號B1
 
 ###### 資訊來源<a href="https://www.facebook.com/JazzSwingSpot/">[Jazz Spot Swing官網]</a>
 ---
+<!--
+
+<a href="https://www.facebook.com/events/308217986901161/
+" target="_blank"><img src="https://i.imgur.com/J8DCvAH.jpg" 
+alt="點我另開視窗撥放" width="400"/></a>
+
+ * Piano:<a href="https://www.facebook.com/ye.z.ting.1/" target="_blank">葉政廷</a>
+ * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
+ * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
+
+
+
 
 ## 333 Project
 
@@ -83,3 +93,4 @@ Jazz Spot Swing 臺北市新生北路一段108號B1
 門票 NT$300 低消 NT$500 10%服務費
 
 ###### 資訊來源<a href="https://www.facebook.com/JazzSwingSpot/">[Jazz Spot Swing官網]</a>
+-->
