@@ -28,7 +28,7 @@ speacial guest
 
 * 11/3  <a href="https://www.facebook.com/mark.kuo.8/" target="_blank">Mark Kuo </a> Piano 
 * 11/10 <a href="https://www.facebook.com/ericchuangguitar" target="_blank">莊智淵 </a> Guitar  
-* 11/170 <a href="https://www.facebook.com/fangshu.li/" target="_blank">李芳旭 Fang-Shu Li </a> Guitar  
+* 11/17 <a href="https://www.facebook.com/fangshu.li/" target="_blank">李芳旭 Fang-Shu Li </a> Guitar  
 
 
 
@@ -61,6 +61,32 @@ Jazz Spot Swing 臺北市新生北路一段108號B1
 
 ###### 資訊來源<a href="https://www.facebook.com/JazzSwingSpot/">[Jazz Spot Swing官網]</a>
 ---
+
+## PLAY ONE TRIO
+
+Play One Trio由三個熱愛籃球的鼓手、貝斯手以及薩克斯風手所組成，常常相約於台北各大公園以及橋下籃球場碰面三打三報隊喊Play One，因此取名Play One Trio，簡稱POT。POT致力於推廣爵士音樂及籃球運動，希望能夠藉此得到文化傳承及身體健康等遠大目標。籃球與爵士樂相當類似，我們會透過演奏爵士樂來增進彼此的默契與節奏感，唯有透過掌握節奏與呼吸才能夠成為在場上生存，這在籃球與爵士樂都是一模一樣的。而樂手間的對話就像是彼此互相傳球一樣，在樂曲進行中再一起尋找適當的時機點進籃得分，希望看到我們活動的你因此而心動，能夠一起來與我們Play One。
+
+<a href="https://www.facebook.com/events/371921003953252/
+" target="_blank"><img src="https://imgur.com/8UaHlIo" 
+alt="點我另開視窗撥放" width="400"/></a>
+
+ * Saxphone:<a href="https://www.facebook.com/chesax318/" target="_blank">李哲安</a>
+ * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
+ * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
+
+###  Location
+Jazz Spot Swing 臺北市新生北路一段108號B1
+
+門票 NT$300 低消 NT$500 10%服務費
+
+###### 資訊來源<a href="https://www.facebook.com/JazzSwingSpot/">[Jazz Spot Swing官網]</a>
+-->
+
+
+
+
+
+
 <!--
 
 <a href="https://www.facebook.com/events/308217986901161/
