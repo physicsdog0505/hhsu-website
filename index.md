@@ -44,11 +44,11 @@ NT$400 入場費含一份選定飲料 精選紅白葡萄酒單支開瓶 可抵�
 
 由台灣知名薩克斯風演奏家周泰明與鋼琴家Grace所組成之四重奏，帶來經典的爵士聲響。 
 
-<!--
+
 <a href="https://www.facebook.com/events/308217986901161/
-" target="_blank"><img src="https://i.imgur.com/J8DCvAH.jpg" 
+" target="_blank"><img src="https://imgur.com/g4auBKa.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
--->
+
  * Saxophone:<a href="https://www.facebook.com/TimingChou/" target="_blank">周泰明</a>
  * Piano:<a href="https://www.facebook.com/grace.weng.927/" target="_blank">Grace Weng</a>
  * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
