@@ -49,7 +49,7 @@ NT$400 入場費含一份選定飲料 精選紅白葡萄酒單支開瓶 可抵�
 " target="_blank"><img src="https://i.imgur.com/J8DCvAH.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 -->
- * Saxphone:<a href="https://www.facebook.com/TimingChou/" target="_blank">周泰明</a>
+ * Saxophone:<a href="https://www.facebook.com/TimingChou/" target="_blank">周泰明</a>
  * Piano:<a href="https://www.facebook.com/grace.weng.927/" target="_blank">Grace Weng</a>
  * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
  * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
@@ -70,7 +70,7 @@ Play One Trio由三個熱愛籃球的鼓手、貝斯手以及薩克斯風手所�
 " target="_blank"><img src="https://imgur.com/8UaHlIo.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
- * Saxphone:<a href="https://www.facebook.com/chesax318/" target="_blank">李哲安</a>
+ * Saxophone:<a href="https://www.facebook.com/chesax318/" target="_blank">李哲安</a>
  * Drums:<a href="https://www.facebook.com/JeffreyOnDrums/" target="_blank">林俊宏</a>
  * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
 
