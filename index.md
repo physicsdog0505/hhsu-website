@@ -67,7 +67,7 @@ Jazz Spot Swing 臺北市新生北路一段108號B1
 Play One Trio由三個熱愛籃球的鼓手、貝斯手以及薩克斯風手所組成，常常相約於台北各大公園以及橋下籃球場碰面三打三報隊喊Play One，因此取名Play One Trio，簡稱POT。POT致力於推廣爵士音樂及籃球運動，希望能夠藉此得到文化傳承及身體健康等遠大目標。籃球與爵士樂相當類似，我們會透過演奏爵士樂來增進彼此的默契與節奏感，唯有透過掌握節奏與呼吸才能夠成為在場上生存，這在籃球與爵士樂都是一模一樣的。而樂手間的對話就像是彼此互相傳球一樣，在樂曲進行中再一起尋找適當的時機點進籃得分，希望看到我們活動的你因此而心動，能夠一起來與我們Play One。
 
 <a href="https://www.facebook.com/events/371921003953252/
-" target="_blank"><img src="https://imgur.com/8UaHlIo" 
+" target="_blank"><img src="https://imgur.com/8UaHlIo.jpg" 
 alt="點我另開視窗撥放" width="400"/></a>
 
  * Saxphone:<a href="https://www.facebook.com/chesax318/" target="_blank">李哲安</a>
