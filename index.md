@@ -57,6 +57,7 @@ alt="點我另開視窗撥放" width="400"/></a>
  * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
 
 ###  Location
+
 Jazz Spot Swing 臺北市新生北路一段108號B1
 
 門票 NT$300 低消 NT$500 10%服務費
@@ -79,7 +80,9 @@ alt="點我另開視窗撥放" width="400"/></a>
  * Bass:<a href="https://www.facebook.com/hsunshun.hsu/" target="_blank">許巽舜</a>
 
 ###  Location
+
 Sappho Live Jazz
+
 B1, NO. 500 LINSEN N RD, ZHONGSHAN DIST. TAIPEI
 台北市中山區林森北路500號B1
 
