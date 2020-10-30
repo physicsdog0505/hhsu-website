@@ -80,11 +80,10 @@ B1, NO. 500 LINSEN N RD, ZHONGSHAN DIST. TAIPEI
 台北市中山區林森北路500號B1
 
 Entrance Fee 入場費: $300 + 低消$150起.
-+ Minimum One Drink Purchase
-Bar Opens 營業時間 : 8pm~3am(Serving food & Drink/供餐飲)
+
 
 ###### 資訊來源<a href="http://www.sappholive.com/">[Sappho Live Jazz官網]</a>
--->
+
 
 
 
