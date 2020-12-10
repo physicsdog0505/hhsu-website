@@ -1,11 +1,22 @@
 # Upcoming Schedule
 
-- 11/3  Plus One Trio ft.__Mark Kuo__ @ BluenoteTaipei
+- 12/1 Plus One Trio ft.__Alan Chao__ @ BluenoteTaipei
+- 12/6 Berklee Alumni Event @ Rhythm Alley
+- 12/6 Berklee Alumni Event @ Rhythm Alley
+- 12/8 Plus One Trio ft.__蘇郁涵__ @ BluenoteTaipei
+- 12/15 Plus One Trio ft.__方鏡興__ @ BluenoteTaipei
+- 12/19 **SOME OTHER QUARTET** @ Jazz Spot Swing
+- 12/22 Plus One Trio ft.__Andy Jaffe__ @ BluenoteTaipei
+- 12/25 Plus One Trio ft.__Geddy Lin__ @ 公館河岸留言
+- 12/26 333 Project ft.__Michael Wang__@ Jazz Spot Swing
+- 12/27 Plus One Trio ft.__李哲安__ @ Sapphp Live Jazz
+
+<!--
 - 11/5 **PLAY ONE TRIO** @ Sappho Live Jazz
 - 11/10 Plus One Trio ft.**莊智淵**  @ BluenoteTaipei
 - 11/14 **SOME OTHER QUARTET** @ Jazz Spot Swing
 - 11/17 Plus One Trio ft.__李芳旭__  @ BluenoteTaipei
-
+-->
 
 
 ***
